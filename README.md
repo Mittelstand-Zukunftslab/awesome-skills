@@ -168,7 +168,7 @@ Special thanks to the open-source projects and creators whose repositories inspi
 
 - [**Comp (`trycompai/crm`)**](https://github.com/trycompai/crm) – For pioneering AI agent skills, design engineering, and fullstack architectural patterns.
 - [**Kaneo (`usekaneo/kaneo`)**](https://github.com/usekaneo/kaneo) – For high-craft open-source project management, UI/UX polish, and developer workflow skills.
-
+- [**MCP Market**](https://mcpmarket.com/tools/skills/leaderboard) – For pioneering AI agent skills, design engineering, and fullstack architectural patterns.
 ---
 
 ## 📄 License
